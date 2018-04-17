@@ -1,7 +1,7 @@
 {
     "ExpiryTime": "2018-04-10 00:00:00",
     "Homepage_Gift_On": 1,
-    "Homepage_Gift_LimitTime": 86400,
+    "Homepage_Gift_LimitTime": 86399,
     "Homepage_Gift_NextShowTime": 172800,
     "Homepage_Gift_Con": [
         32
