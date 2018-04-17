@@ -1,11 +1,9 @@
 {
     "ExpiryTime": "2018-04-21 00:00:00",
     "Homepage_Gift_On": 1,
-    "Homepage_Gift_LimitTime": 21,
-    "Homepage_Gift_NextShowTime": 21,
+    "Homepage_Gift_LimitTime": 86400,
+    "Homepage_Gift_NextShowTime": 172800,
     "Homepage_Gift_Con": [
-        31,
-        32,
-        33
+        32
     ]
 }
