@@ -9,6 +9,6 @@
     "HomePage_Gift_IDs_Sort": [
         31
     ],
-    "TestA": 30,
-    "TestB": 30
+    "TestA": 86399,
+    "TestB": 172800
 }
