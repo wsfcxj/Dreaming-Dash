@@ -5,5 +5,10 @@
     "Homepage_Gift_NextShowTime": 172800,
     "Homepage_Gift_Con": [
         31
+    ],
+    "HomePage_Gift_IDs_Sort": [
+        31,
+        32,
+        33
     ]
 }
