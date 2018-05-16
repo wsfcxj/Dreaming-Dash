@@ -11,5 +11,12 @@
     ],
     "TestA": 15,
     "TestB": 2,
-    "Max_RespanwTimes": 99
+    "Max_RespanwTimes": 99,
+    "ShowAD_1_1": 2,
+    "ShowAD_1_2": 5,
+    "ShowAD_1_3": 8,
+    "ShowAD_2_1": 2,
+    "ShowAD_2_2": 5,
+    "ShowAD_2_3": 8,
+    "ShowAD_BoardCount": 10,
 }
