@@ -61,7 +61,7 @@
             ]
         },
         {
-            "name": "buyhigh",
+            "name": "iapcenter",
             "way": "无high标签用户",
             "adType": "1|2",
             "adFrame": 3,
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "name": "buyhigh",
+            "name": "iaplow",
             "way": "50关未付费用户",
             "adType": "1|2|3",
             "adFrame": 2,
