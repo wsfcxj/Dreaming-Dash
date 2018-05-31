@@ -1,1 +1,94 @@
-
+{
+    "config": [
+        {
+            "name": "buyhigh",
+            "way": "累计付费51+",
+            "adType": "0",
+            "adFrame": 0,
+            "adStart": 0,
+            "points": [
+                2,
+                5,
+                10,
+                20,
+                50,
+                10
+            ]
+        },
+        {
+            "name": "buycenter",
+            "way": "累计付费11-50",
+            "adType": "1",
+            "adFrame": 0,
+            "adStart": 20,
+            "points": [
+                1,
+                2,
+                5,
+                10,
+                20,
+                50
+            ]
+        },
+        {
+            "name": "buylow",
+            "way": "累计付费1-10",
+            "adType": "1|2",
+            "adFrame": 10,
+            "adStart": 20,
+            "points": [
+                1,
+                2,
+                5,
+                10,
+                20,
+                30
+            ]
+        },
+        {
+            "name": "iaphigh",
+            "way": "带high标签用户",
+            "adType": "1|2",
+            "adFrame": 5,
+            "adStart": 15,
+            "points": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ]
+        },
+        {
+            "name": "buyhigh",
+            "way": "无high标签用户",
+            "adType": "1|2",
+            "adFrame": 3,
+            "adStart": 10,
+            "points": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                15
+            ]
+        },
+        {
+            "name": "buyhigh",
+            "way": "50关未付费用户",
+            "adType": "1|2|3",
+            "adFrame": 2,
+            "adStart": 1,
+            "points": [
+                1,
+                2,
+                3,
+                5,
+                7,
+                10
+            ]
+        }
+    ]
+}
