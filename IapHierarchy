@@ -10,6 +10,14 @@
             "adType": "0",
             "adFrame": 0,
             "adStart": 0,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 2,
                 5,
@@ -29,6 +37,14 @@
             "adType": "1",
             "adFrame": 0,
             "adStart": 20,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 1,
                 2,
@@ -48,6 +64,14 @@
             "adType": "1|2",
             "adFrame": 10,
             "adStart": 20,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 1,
                 2,
@@ -67,6 +91,14 @@
             "adType": "1|2",
             "adFrame": 5,
             "adStart": 15,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 1,
                 2,
@@ -86,6 +118,14 @@
             "adType": "1|2",
             "adFrame": 3,
             "adStart": 10,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 1,
                 2,
@@ -105,6 +145,14 @@
             "adType": "1|2|3",
             "adFrame": 2,
             "adStart": 1,
+            "points_old": [
+                1,
+                2,
+                3,
+                5,
+                10,
+                20
+            ],
             "points": [
                 1,
                 2,
