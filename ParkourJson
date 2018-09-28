@@ -1,6 +1,6 @@
 {
-    "ban": 0,
-    "ins": 0,
-    "video": 0,
-    "insFrame": 2
+    "ban": 1,
+    "ins": 1,
+    "video": 1,
+    "insFrame": 1
 }
